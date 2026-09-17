@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UniGestionPeru" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Hace que el fondo inicial del sistema sea negro continental en vez de blanco por defecto -->
+        <item name="android:windowBackground">@color/uc_negro</item>
+    </style>
+</resources>
